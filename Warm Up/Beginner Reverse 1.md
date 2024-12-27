@@ -29,4 +29,6 @@ After that, the string comparation will be done between the password array and "
 
 ---
 ## Flag
+```
 SKR{P@ssw0rd1337}
+```
