@@ -39,8 +39,8 @@ Each directory contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skr-ctf-writeup.git
-   cd skr-ctf-writeup
+   git clone https://github.com/sheng11-eleven/SKR-CTF.git
+   cd SKR-CTF
    ```
 2. Navigate to the desired challenge category and explore the writeups.
 
