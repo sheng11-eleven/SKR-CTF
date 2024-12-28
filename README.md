@@ -8,12 +8,8 @@ Welcome to the **SKR CTF Writeup** repository! This repository contains detailed
 
 The SKR CTF was a thrilling cybersecurity competition designed to test participants' skills in various domains, including:
 
-- Web Exploitation
+- Warm Up
 - Reverse Engineering
-- Cryptography
-- Forensics
-- Binary Exploitation
-- Miscellaneous Challenges
 
 This repository documents the thought process, tools, and techniques used to solve the challenges.
 
@@ -25,12 +21,8 @@ The repository is organized as follows:
 
 ```
 .
-├── Web-Exploitation/
-├── Reverse-Engineering/
-├── Cryptography/
-├── Forensics/
-├── Binary-Exploitation/
-├── Miscellaneous/
+├── Reverse Engineering
+├── Warm Up
 └── README.md
 ```
 
