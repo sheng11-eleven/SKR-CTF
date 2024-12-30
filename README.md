@@ -8,6 +8,7 @@ Welcome to the **SKR CTF Writeup** repository! This repository contains detailed
 
 The SKR CTF was a thrilling cybersecurity competition designed to test participants' skills in various domains, including:
 
+- Cryptography
 - Warm Up
 - Reverse Engineering
 
@@ -21,6 +22,7 @@ The repository is organized as follows:
 
 ```
 .
+├── Cryptography
 ├── Reverse Engineering
 ├── Warm Up
 └── README.md
